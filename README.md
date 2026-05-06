@@ -1,57 +1,68 @@
 # Judecoin Community Research
 
-Community research and ecosystem analysis for Judecoin, Web3 infrastructure, service nodes, privacy, atomic swaps, multi-chain systems, and digital financial networks.
-
-These articles are community research notes and personal analysis. They are not official documentation, financial advice, or investment advice.
+Community research and ecosystem analysis for Judecoin’s long-term development, technical roadmap, service node network, on-chain ecosystem infrastructure, privacy, atomic swaps, community governance, future applications, and digital financial infrastructure.
 
 ## Purpose
 
-This repository is used to organize long-term community research and ecosystem analysis related to Judecoin.
+This repository has been created as a long-term space for Judecoin community research and ecosystem analysis.
 
-The purpose is to provide:
+The purpose is to gradually organize previous and future research notes related to:
 
-- Web3 policy and ecosystem context
-- Judecoin strategic positioning analysis
-- Service node and PoS ecosystem observations
+- Judecoin’s long-term ecosystem development
+- Judecoin’s technical roadmap and future direction
+- Service node network and long-term network value
+- PoS transition and ecosystem carrying capacity
 - Privacy, auditability, and settlement-layer research
-- Atomic swap and multi-chain infrastructure analysis
-- Long-term community discussion materials
-- Research notes for future Judecoin ecosystem development
+- Atomic swaps and multi-chain infrastructure
+- On-chain ecosystem infrastructure
+- Future Judecoin ecosystem applications
+- Community governance and sustainable ecosystem growth
+- Judecoin and digital financial infrastructure
+- Long-term Judecoin ecosystem strategy
 
 ## Research Areas
 
 This repository may include research and analysis on:
 
-- Judecoin and digital financial infrastructure
-- Judecoin Service Nodes and long-term network value
-- PoS transition and network security
-- Privacy and auditability in next-generation Web3 systems
-- Atomic swaps and the post-bridge cross-chain era
+- Judecoin ecosystem development
+- Judecoin roadmap interpretation
+- Service node participation and network effects
+- PoS transition and network value
+- Privacy protection and auditability
+- Atomic swaps and cross-chain value exchange
 - Multi-chain wallet infrastructure and user entrance
-- Hong Kong Web3 policy direction and infrastructure opportunities
-- Tokenized assets, settlement networks, and programmable finance
-- Community governance and ecosystem development
-- Judecoin’s long-term strategic positioning
+- On-chain ecosystem infrastructure
+- Future applications and ecosystem expansion
+- Community governance and ecosystem sustainability
+- Digital financial infrastructure and settlement networks
+- Long-term strategic positioning of Judecoin
 
 ## Articles
 
 Research articles will be gradually organized and added here.
 
-Planned or possible article topics include:
+Current article:
 
-1. Hong Kong Web3 Direction and Judecoin’s Strategic Position
-2. Judecoin and the Next Generation Digital Financial Infrastructure
-3. Why Service Nodes Matter for Judecoin’s Long-Term Network Value
-4. Atomic Swaps and the Post-Bridge Cross-Chain Era
-5. Privacy, Auditability, and Trust in Web3 Financial Infrastructure
-6. Judecoin’s PoS Transition and Network Value Repricing
+1. [Hong Kong Web3 Direction Has Been Set: Judecoin Is Not Competing for Hype, but for Position](./hong-kong-web3-judecoin-strategic-position.md)
 
-## Notice
+## Future Research Topics
 
-All articles in this repository are community research and personal analysis.
+Planned or possible research topics include:
 
-They are not official Judecoin documentation.
+- Judecoin and the next generation of digital financial infrastructure
+- Why service nodes matter for Judecoin’s long-term network value
+- Atomic swaps and the post-bridge cross-chain era
+- Privacy, auditability, and trust in digital financial infrastructure
+- Judecoin’s PoS transition and network value repricing
+- On-chain ecosystem infrastructure and future applications
+- Judecoin community governance and ecosystem growth
+- Multi-chain wallet entrance and user sovereignty
+- Long-term ecosystem strategy for Judecoin
 
-They are not financial advice or investment advice.
+## Repository Direction
 
-The content is intended for ecosystem discussion, long-term research, and community reference only.
+This repository is maintained as a community research space.
+
+The focus is long-term ecosystem understanding, infrastructure positioning, technical direction, community governance, and knowledge building around Judecoin.
+
+I will continue improving this repository based on real operation experience, public information, previous research notes, community feedback, and the Judecoin team’s suggestions.
