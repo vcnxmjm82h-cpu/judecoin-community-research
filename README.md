@@ -43,7 +43,7 @@ Research articles will be gradually organized and added here.
 
 Current article:
 
-1. [Hong Kong Web3 Direction Has Been Set: Judecoin Is Not Competing for Hype, but for Position](./hong-kong-web3-judecoin-strategic-position.md)
+1. [Web3 Direction Has Been Set: Judecoin Is Not Competing for Hype, but for Position](.web3-judecoin-strategic-position.md)
 
 ## Future Research Topics
 
